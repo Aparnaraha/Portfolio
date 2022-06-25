@@ -36,7 +36,6 @@ body{
     background:#eee;
     padding-right: 5rem;
 }
-
 section{
     padding:2rem 9%;
     min-height: 100vh;
@@ -82,7 +81,7 @@ header{
 }
 
 header .navbar{
-    writing-mode: vertical-lr;
+    writing-mode: horizontal-tb;
     padding:1.5rem;
 }
 
